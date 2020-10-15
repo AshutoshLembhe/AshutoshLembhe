@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, this is Ashutosh 👋
+### I am Electrical Engineering student at VIT Chennai. 
+### I like working on projects related to my branch and I also like to do coding.
+### I am really intrested in the the field of electronics, electrical machines, power electronics and VLSI.
 
-<!--
-**AshutoshLembhe/AshutoshLembhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a reasearch paper regarding electrical machines
+- 🌱 I’m currently learning Electrical Engineering, ARM programming, embedded systems and advance C++
+- 👯 I’m looking to collaborate on work regarding electronics.
+- 🤔 I’m looking for help with Data Structures.
+- 💬 Ask me about me about Electrical Vehicles, Military Stuff, My branch of Engineering.
+- 📫 How to reach me: ashutoshlembhe50@gmail.com
+- 😄 Pronouns: capt.
+- ⚡ Fun fact: I like reading books related to military strategy, Stephen hawkins books on physics.
 
-Here are some ideas to get you started:
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[linkedin]:www.linkedin.com/in/ashutosh-lembhe-6b6b10159
