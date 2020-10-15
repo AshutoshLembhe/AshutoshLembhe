@@ -1,4 +1,4 @@
-![norway-5120x2880-lofoten-islands-europe-mountains-sea-sunrise-5k-16595](https://user-images.githubusercontent.com/52043854/96172284-cfe44080-0f43-11eb-99c6-08f9ed751298.jpg)
+![080820-F-5957S-887 jpg](https://user-images.githubusercontent.com/52043854/96172820-93fdab00-0f44-11eb-9005-d7753dc77f45.JPG)
 ### Hi there, this is Ashutosh 👋
 ### I am Electrical Engineering student at VIT Chennai. 
 ### I like working on projects related to my branch and I also like to do coding.
