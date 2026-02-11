@@ -3,8 +3,8 @@
 ### I am an upcoming PhD candidate in High Performance Computing at Johannes Guttenburg University of Mainz. 
 ### I like working on projects related to software and I also like to do coding.
 
-- 🌱 I’m currently C++, CUDA and High Performance Computing
-- 🤔 I’m looking for help with Data Structures, C++.
+- 🌱 I’m currently learning C++, CUDA and High Performance Computing
+- 🤔 I’m looking for help with Data Structures, C++, Parallel file systems, load optimization.
 - 📫 How to reach me: ashutoshlembhe50@gmail.com
 - ⚡ Fun fact: I like reading books related to military strategy.
 
