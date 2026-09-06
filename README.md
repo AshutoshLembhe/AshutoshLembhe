@@ -1,9 +1,8 @@
 
-### Hi there, this is Ashutosh 👋
-### I am an upcoming PhD candidate in High Performance Computing at Johannes Guttenburg University of Mainz. 
+### Hi there, this is Ashutosh 👋 
 ### I like working on projects related to software and I also like to do coding.
 
-- 🌱 I’m currently learning C++, CUDA and High Performance Computing
+- 🌱 I’m currently learning Java, Springboot.
 - 🤔 I’m looking for help with LLMs.
 - 📫 How to reach me: ashutoshlembhe50@gmail.com
 - ⚡ Fun fact: I like reading books related to military strategy.
